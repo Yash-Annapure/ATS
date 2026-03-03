@@ -1,0 +1,489 @@
+﻿username,name,email,location,public_repos,followers,following,total_stars,total_forks,top_languages,common_topics
+loft-sh,vCluster,info@vcluster.com,Your Kubernetes Cluster,155,679,0,28979,1692,Go; TypeScript; Shell; HCL; Jupyter Notebook,kubectl; tailscale; environment; k8s; remote-development-environment; loft; microservices; vcluster; helm; dev
+visualfc,七叶,,,155,900,2,8094,1083,Go; LLVM; HTML; TypeScript; JavaScript,tcl; tk; qt; cross-platform; ide; go; liteide; gui; golang; embed
+ehsandeep,Sandeep Singh,sandeep@projectdiscovery.io,India,80,1816,79,114,10,Go; Python; JavaScript; Ruby; TypeScript,
+beorn7,Björn Rabenstein,beorn@grafana.com,Berlin,33,1139,419,241,44,Go; TeX; Python; CSS; JavaScript,
+quasilyte,quasilyte,quasilyte@gmail.com,Georgia,165,835,72,3071,205,Go; PHP; TypeScript; C++; HTML,template-engine; template; game; kphp-library; go; pcm; demo; cpu; interpreter; playground
+bcmills,Bryan C. Mills,bryan@bcmills.net,"Pittsburgh, PA",23,681,0,127,14,Go; Emacs Lisp; JavaScript,
+openconfig,OpenConfig,,,46,370,0,3689,2011,Go; Shell; Python; Starlark; C++,telemetry; openconfig; protobuf3; gnmi; code-generation; grpc; network-management; streaming-telemetry; security; yang-modules
+s-matyukevich,Sergey Matyukevich,s.matyukevich@gmail.com,"Denver, CO",94,441,0,14033,1452,Go; Shell; Java; Ruby; JavaScript,kernel; arm; raspberry-pi; tutorial; learn; armv8; operating-system; linux-kernel; raspberry-pi-os; assembler
+Code-Hex,Kei Kamikawa,,"Okinawa, Japan",286,413,63,4242,363,Go; TypeScript; Shell; Objective-C; JavaScript,firebase-auth; firebase; lfu; simple; time; http; client; cache; mac; m2
+nats-io,NATS - The Edge & Cloud Native Messaging System,info@nats.io,,130,2145,0,45215,6891,Go; Java; TypeScript; C#; Python,csharp; messaging; client; eventmachine; pub-sub; nats-io; distributed-systems; pubsub; python2; ruby
+cosmos,COSMOS,hello@cosmos.network,,127,2003,0,16996,13433,Go; TypeScript; Rust; Vue; HTML,distributed-ledger; cosmossdk; cosmos; tendermint; ethermint; cosmos-sdk; go; evm; stylus; nuxtjs
+tokopedia,Tokopedia,opensource@tokopedia.com,"Jakarta, Indonesia",76,578,0,1201,340,Go; Swift; Objective-C; Java; Python,architecture; mock; ios; macos; swift; modularity; grpc; composition; uikit; unidirectional-data-flow
+legacy-tech-repos,legacy,,,12,1014,0,46,8,Go,
+gernest,Geofrey Ernest,geofreyernest@live.com,"Arusha, Tanzania",333,404,0,1109,82,Go; Zig; TypeScript; JavaScript; HTML,router; http; png; time; base32; proxy-server; detector; aliens; command-line; git-stats
+openimsdk,OpenIMSDK,contact@openim.io,,59,2179,0,19126,6103,Go; TypeScript; C#; Shell; Objective-C,messaging; customizable; chat; automation; chatgpt; robot; game; charts; integration-testing; ci
+chainreactors,chainreactors,,,47,852,0,5229,642,Go; Python; Rust; TypeScript; Shell,recon; fingerprint; brute-force; security-tools; c2; security; redteam
+Layer-Edge,LayerEdge,info@layeredge.io,,28,943,0,800,399,Rust; Go; TypeScript; JavaScript; Python,
+OlingCat,Oling Cat,olingcat@gmail.com,Gensokyo,54,633,450,44,8,Go; TypeScript; Shell; JavaScript; Haskell,
+huaweicloud,HUAWEI CLOUD,,,158,697,0,4067,2901,Java; TypeScript; Go; Python; C,terraform-provider; mysql; servicecomb; spring-cloud; redis; dis; python; sdk; dataset; huawei-cloud
+elys-network,Elys Network,team@elys.network,Singapore,33,453,0,127,138,Go; Rust; JavaScript; Python; Shell,margin-trading; web3; liquidity-pool; liquidity-providers; blockchain; bsl-governance; dex; cosmos; lending; cosmos-sdk
+confidential-containers,Confidential Containers,,,24,614,0,1233,972,Rust; Go; SCSS; Shell; C,key-management; cncf; kubernetes; confidential-computing; attestation; website
+fd0,Alexander Neumann,,"Aachen, Germany",67,593,20,975,124,Go; C; Ruby; Python; Vim script,parallel; commands; execution; chunking; feedback; cdc; cli; go; golang; split
+pearkes,Jack Pearkes,jackpearkes@gmail.com,Los Angeles,62,440,0,516,466,Go; Ruby; Python; JavaScript; CSS,
+xlvector,Xiang Liang,xlvector@gmail.com,"Beijing, China",77,657,15,1018,350,Go; C++; Python; C; JavaScript,
+kaspanet,Kaspa,,,24,1061,0,1578,684,Go; Rust; Python; TeX; C,wasm; core; rust; consensus-protocol; app; cryptocurrency; doc; hacktoberfest; golang
+adonovan,Alan Donovan,alan@alandonovan.net,"Brooklyn, NY",19,2355,0,8874,2847,Go; Starlark; Vim script; C; Emacs Lisp,
+karlseguin,Karl Seguin,,Singapore,149,2349,3,10940,1687,Go; Zig; Elixir; C; TeX,zig-library; uuidv7; template-engine; smtp-client; cache; prometheus-client; benchmarking; duckdb-driver; zig; blogging
+aykevl,Ayke,aykevanlaethem@gmail.com,Netherlands,143,692,4,521,93,Go; C; Python; JavaScript; Rust,cortex-m0; arm; simulator; argon2id; microcontroller; passwords; pbkdf2; argon2; golang; emulator
+ItIsMeCall911,ItIsMeCall911,,,3,345,2,6477,655,,telegram; course-piracy; piracy-index; awesome-list; osint-resources; telethon; piracy; awesome; osint
+xjdrew,xjdrew,,"Guangzhou, China",60,937,30,2097,582,Go; C; Python; TypeScript; JavaScript,
+maxence-charriere,Maxence Charriere,charriere@outlook.com,Taipei,19,420,50,9558,499,Go; C#; JavaScript; HCL,wasm; ui; awesome-go; pwa; gui; go; golang; lofi
+crowdsecurity,crowdsec,,,128,524,0,14118,1266,Python; Go; Shell; PHP; JavaScript,whm; ips; detection; crowdsec-bouncer; ban-hosts; ip-range-check; firewall; opencti; wordpress; captcha-generator
+anthdm,Anthony De Meulemeester,,Belgium,107,6153,11,5920,730,Go; Python; JavaScript; CSS; Ruby,faas-platform; data-science; distributed-systems; microservices; faas-framework; go; blockchain-technology; scikit-learn; fault-tolerance; machine-learning
+eliasnaur,Elias Naur,mail@eliasnaur.com,,49,429,0,71,9,Go; Nix; Java; C; Python,
+mylxsw,mylxsw,mylxsw@gulu.ai,China,232,972,43,13653,2524,Go; Python; TypeScript; Dart; JavaScript,gpt-4; migrate; chatgpt; xlsx; s3; flutter; trojan; reduce; pdf; api
+Cre4T3Tiv3,Jesse Moses,,,9,3045,3016,377,16,Python; TypeScript; Jupyter Notebook; Go,ensemble-coordination; scientific-computing; matrix-multiplication; qlora; git-analysis; tailwindcss; coordination-protocols; mesa-framework; cuda-optimization; go
+flashbots,Flashbots,info@flashbots.net,,194,2170,0,8066,1891,Go; Rust; Shell; TypeScript; BitBake,pbs; builder; sidecar-injector; vault; mev-boost; auth; import; json-rpc; encrypt; ethereum
+learning-go-book-2e,,,,29,518,0,122,104,Go; Makefile,
+matryer,Mat Ryer,,London,111,4098,187,31112,2704,Go; JavaScript; Shell; Elixir; Vue,menubar; http; mentions; mac; queues; macos-menu; channels; appengine; mocking; google
+cugu,Jonas Plum,,"Munich, Germany",8,463,68,5324,763,Go; CSS; Python,supply-chain-security; rss; forensic-analysis; server-side-rendering; supply-chain-attacks; free; open-source; newsreader; markdown; dfir
+bepass-org,Bepass,,,21,1569,0,16474,2419,Go; Rust; JavaScript; TypeScript; Java,mac; dns-over-tls; vpn; endpoint; warpinwarp; proxy; dns-proxy-server; cloudflare; oblivion; wireguard
+VictoriaMetrics,VictoriaMetrics,info@victoriametrics.com,United States of America,40,698,0,23705,2807,Go; Shell; TypeScript; Dockerfile; Go Template,inmemory-cache; client; anomaly-detection; cache; thanos; helm-charts; api; helm; tracing; go
+iikira,,,中国,37,1820,3,468,161,Go; Shell; C++; PHP; HTML,tieba; tinypng-client; baidu; go; git-lfs; golang; lfs; baidu-login
+titanous,Jonathan Rudenberg,jonathan@titanous.com,,290,734,24,131,37,Go; Starlark; Dart; Rust; JavaScript,
+thrasher-,Adrian Gallagher,,Australia,28,521,27,42,37,Go; C++; Python; JavaScript; Java,
+calebdoxsey,Caleb Doxsey,caleb@doxsey.net,,15,492,1,221,90,Go; JavaScript; Dockerfile; FORTRAN,kubernetes; ingress-controller
+olebedev,Oleg Lebedev,oleg@lebedev.au,"Sydney, Australia",67,379,127,6368,693,Go; Rust; JavaScript; Nix; TypeScript,router; keychain; configuration; time; easyjson; resize; api-wrapper; gpg; natural-language; api
+saad-ali,Saad Ali,saadali@google.com,Sunnyvale,30,436,1,34,9,Go; Shell; Makefile; Jupyter Notebook; CSS,
+block,Block Open Source,opensource@block.xyz,,95,1117,0,34117,3242,Kotlin; Go; Python; TypeScript; Rust,automation; ai-rules; ai-coding-tools; benchmarking; rce-agent; compose; mysql; reporting; debug; data-loss-prevention
+v2fly,V2Fly,hi@v2fly.org,Mars,27,3509,0,53837,9925,Go; Shell; Mermaid; Rust; Dockerfile,configuration; v2ray-core; script; maxmind; vpn; routing; tunnel; trojan; proxy; vmess
+yaron2,Yaron Schneider,,"Federal Way, WA",75,489,1,48,17,Go; JavaScript; C#; Python; Shell,auto-scaler; kubernetes; aks; azurecontainerservice; azure; azure-cli
+pkieltyka,Peter Kieltyka,,,81,794,227,107,23,Go; Ruby; JavaScript; C; TypeScript,
+whyrusleeping,Whyrusleeping,,The Metaverse,284,1791,24,3158,476,Go; C; JavaScript; Vim Script; Shell,
+errordeveloper,Ilya Dmitrichenko,errordeveloper@gmail.com,"London, UK",302,679,1384,340,35,Go; Shell; Rust; Ruby; HTML,kubectl; cuelang; continuous-delivery; kubernetes-testing; ci; ruby; kubernetes-cluster; github-actions; docker-image-registry; dsl
+hajimehoshi,Hajime Hoshi,hajimehoshi@gmail.com,"Tokyo, Japan",162,2415,339,15549,1018,Go; C; JavaScript; HTML; C++,mp3; golang-library; game-development; ebitengine; mp3-decoder; game; macos; gamedev; game-engine-2d; game-engine
+ma6174,ma6174,ma617495@gmail.com,"Shanghai, China",75,883,622,5395,3170,Go; Python; C; JavaScript; C++,ma6174; ttl-cache; socks5-proxy; hosts; cgo; preload; blog; dns; httpdns
+superfly,fly.io,,,254,2166,0,11375,2151,Go; Rust; Elixir; TypeScript; Shell,swim; edge-computing; gossip; flyio-services; cdn; autoscaler; distributed; flyio; rust; database
+asim,Asim Aslam,asim@mu.xyz,,18,2252,0,612,131,Go; JavaScript; Ruby; CSS,message-broker; hashicorp; hadith; flooding; donate; delete; go; gossip; twitter; git
+dsymonds,David Symonds,,"Sydney, Australia",37,831,14,228,27,Go; Objective-C; Python; Shell,nearlyfreespeech; enphase-api; api; go; hubitat; victorialogs; solar; enphase; lifx; lifx-lan-protocol
+ymotongpoo,Yoshi Yamaguchi,,"Tokyo, Japan",215,383,181,187,64,Go; Python; JavaScript; Shell; Java,observability; vscode-extension; cloud-trace; google-cloud; license; trace; typescript
+sqs,Quinn Slack,quinn@slack.org,"San Francisco, CA",134,934,152,872,102,Go; TypeScript; JavaScript; Shell; Scala,
+rubyhan1314,韩茹,,,27,572,0,6258,2057,Go; Java; Smarty; HTML; C#,
+coreos,CoreOS,,,275,684,0,18910,6532,Go; Rust; Shell; Python; Groovy,machined; ostree; jenkins; bootloaders; dbus; fedora; centos; getty; go; vault
+safing,Safing,,Austria,29,972,0,12826,611,Go; HTML; Shell; CSS; TypeScript,firewall; application-firewall; privacy-protection; privacy-by-design; networking; dns; privacy-enhancing-technologies; go; traefik-plugin; golang
+bouk,Bouke van der Bijl,i@bou.ke,Netherlands,315,774,72,508,66,Go; Nix; Shell; Rust; Swift,terraform; tailscale; ejson
+andreynering,Andrey Nering,,"Joinville, Santa Catarina, Brazil",46,505,83,98,38,Go; JavaScript; Shell; Ruby; Nix,vagrant-boxes; redux; localstorage; throttle; virtualbox; reactjs; command-line-tool; sync; lua; gitter
+planetscale,PlanetScale,contact@planetscale.com,United States of America,169,1248,0,7662,746,Go; Shell; TypeScript; JavaScript; Ruby,buildkite-plugin; vercel; docs; vitess; actions; vault; go; pagy; mysql; nextjs
+SinaMasterMind,Sina ,,,107,347,473,13,1,JavaScript,
+uber-go,Uber Go,,70+ countries and counting.,26,2438,0,81459,5303,Go; Makefile,refactoring; storage; configuration; dependency-injection; service; go; participant; framework; code-generator; cpu
+nextdns,NextDNS,,,22,1211,0,5415,609,Go; Ruby,trackers; blocklist; dns; cname; dns-over-https; privacy
+rhatdan,Daniel J Walsh,dwalsh@fedoraproject.org,"Wells, ME",156,1154,3,91,16,Go; Shell; Python; C; Rust,
+PThorpe92,Preston Thorpe,preston@turso.tech,the other mountain view,52,1363,185,280,9,Rust; Go; PHP; Python; Lua,http; toy-language; postman-collection; rest-api-test; go; oci; api-keys; interpreter; vm; docker
+proxysu,,,,7,479,4,5695,1559,C#; Shell,vpn; trojan; naiveproxy; proxy; windows-v2ray; shadowsocks-libev; mtproto-proxy; trojan-go; mtproto-tls; shadowsocks
+kevinburke,Kevin Burke,kevin@burke.dev,"San Francisco, CA",425,683,30,2921,364,Go; Python; C; HTML; Rust,router; client; http; bayarea; data-visualization; command-line; uuid; ynab-api; chroma; api
+blindpirate,Bo Zhang,,,217,1184,52,95,72,Java; Kotlin; Groovy; Shell; HTML,
+minio,MinIO,dev@minio.io,United States of America,129,2030,0,87691,13802,Go; Shell; Python; JavaScript; Scala,golang-standard; dotnet-core; sphinx; freebsd-scripts; upstart; s3; lz4; scala; go; packages
+goinggo,William Kennedy,bill@ardanstudios.com,"Miami, FL",32,876,0,720,181,Go; XSLT; C++; CSS,
+satya-nutella,,,/dev/null,117,7690,0,534,63,TypeScript; JavaScript; Python; Go; Shell,
+patex-ecosystem,Patex Ecosystem,,,11,418,0,616,161,TypeScript; Go; JavaScript; Solidity,
+novalagung,Noval Agung Prayogo,hello@novalagung.com,"Malang, Indonesia",52,2487,161,4656,850,Go; JavaScript; Rust; Python; Dockerfile,muslim; swift; docsearch; go; utility-library; ebook; browser-extension; python; cocoapods; calendar
+hellofresh,HelloFresh,admin@hellofresh.com,Berlin,132,597,0,2048,447,Go; Python; PHP; Shell; Dockerfile,tableau; wiz-platform-engineering-experience; microservice; platform; service-discovery; oauth; github-actions; go; protoc; wiz-payments-payments-platform
+lesismal,lesismal,lesismal@gmail.com,,47,533,49,4102,309,Go; JavaScript; HTML,
+skoowoo,Skoo Wu,skoowu.fancy@gmail.com,Hangzhou China,34,477,16,197,66,Go; VimL; C; Python; Lua,functions; flowl; automation; programming-language; cloudnative; workflow; faas; dsl; anything-as-code; desktop-first
+kubernetes-csi,Kubernetes CSI,,,23,441,0,4653,2977,Go; Shell; CSS,gomock; storage; ginkgo; grpc; k8s-sig-storage; nfs; kubernetes; containers; csi; container-storage-interface
+17mon,IPIP.net,,Beijing,21,443,6,4878,989,Go; PHP; Python; Java; C,
+cockroachdb,CockroachDB,,,219,904,0,44146,6200,Go; Java; Python; TypeScript; JavaScript,netlify; authentication; go; cockroachdb; ruby-on-rails; database; react; security; cloud-native; hacktoberfest
+ernado,Aleksandr Razumov,ernado@go-faster.org,,131,394,75,23,9,Go; Shell; JavaScript; Rust,go; ffmpeg; ffmpeg-wrapper
+HalloKyle,Kyle,,Singapore,4,388,4,13,0,,
+inconshreveable,Alan Shreve,alan@inconshreveable.com,,42,2053,1,30704,5090,Go; Python; C; HTML; CoffeeScript,
+radius-project,Radius,,United States of America,15,662,0,1847,312,Bicep; TypeScript; HTML; Go; Shell,tutorials; samples; docs
+acoshift,Thanatat Tamtan,acoshift@gmail.com,"Bangkok, Thailand",167,405,25,581,147,Go; Shell; JavaScript; TypeScript; Dockerfile,router; http; handler; rpc; http-handler; jwt; middleware; http-header; session; guideline
+hyper0x,HaoLin,hypermind@outlook.com,"Beijing, China",50,1968,35,8800,2074,Go; Jupyter Notebook; HTML; Markdown; Python,julia; programming; tutorial; batch; errata; tool; command; command-line-tool; julia-language; gopcp
+alecthomas,Alec Thomas,alec@swapoff.org,"Sydney, Australia",173,1421,5,23570,2086,Go; Python; Rust; Shell; C++,ebnf; cache; struct; command-line; app; benchmarking; dependency-injection; highlighter; go; assert
+michelleN,Michelle Dhanani,michelle@fermyon.com,"Atlanta, GA",197,578,36,5,7,Rust; Go; JavaScript; Shell; Smarty,
+shenli,Li Shen,shenli3514@gmail.com,San Francisco Bay Area,131,425,12,131,88,Go; TypeScript; C++; Java; JavaScript,codex; ai-coding; vibe-coding; developer-tools; openai
+yurishkuro,Yuri Shkuro,,New York,52,1221,3,1673,423,Go; HTML; Java; Rust; TypeScript,
+txthinking,TxThinking,cloud@txthinking.com,The Mars,35,2008,0,22976,4232,Go; JavaScript; Shell; Zig; HTML,aliyun-oss; redis; install; tcp; script; proxy; go; database-migrations; bash; rest-client
+sourcegraph,Sourcegraph,hi@sourcegraph.com,,606,1630,0,5665,1613,TypeScript; Go; JavaScript; Shell; Kotlin,lsif; lsif-dump; code-intelligence; code-search; gcp-pubsub; lsif-java; compiler; scip; authentication; api
+lni,lni,,,18,785,65,5561,635,Go,distributed-storage; paxos; raft; distributed-systems; raft-protocol; raft-consensus-algorithm; replicated-state-machines; go; raft-algorithm; distributed-consensus
+neelance,Richard Musiol,mail@richard-musiol.de,"Berlin, Germany",62,745,3,421,70,Go; Ruby; JavaScript; TypeScript; C,
+meirwah,Meir Wahnon,meirwah@gmail.com,Tel Aviv,59,671,8,16747,2493,Go; Python; Java; JavaScript; Shell,incident-response; incident-response-tooling; dfir; list; awesome-list; awesome; security; cybersecurity
+initia-labs,Initia Labs,,,79,456,0,755,700,Go; TypeScript; Move; Rust; Solidity,
+laurent22,Laurent Cozic,,London,192,2562,10,59428,6453,JavaScript; TypeScript; Java; Shell; Go,backup; log-viewer; dropbox; github-actions; note-taking; go; bash; path; electron; shell
+feiskyer,Pengfei Ni,,,101,2713,21,10993,3022,Go; Python; Shell; C; TypeScript,private-cluster; sdn; orchestration; networking; github-actions; python-tutorial; dnsmasq; go; hexo; anthropic
+marten-seemann,Marten Seemann,martenseemann@gmail.com,,184,2347,10,226,72,Go; Makefile; Shell; Dockerfile; C,responsive; tls13; responsive-email; quic; oxid-eshop
+Vocula,Adrian,,"Barcelona, Spain",6,1674,1536,35,0,Go,
+medvednikov,Alexander Medvednikov,alexander@vlang.io,Netherlands,24,2714,0,105,8,V; Go; C; GLSL; VimL,
+lucas-clemente,Lucas Clemente,contact@clemente.io,Zurich,45,527,8,204,71,Go; Ruby; JavaScript; CSS; Rust,
+Huang-Wei,Wei Huang,hweicdl@gmail.com,"San Jose, CA",69,434,42,146,71,Go; Shell; Makefile; Java; HCL,kubernetes; service; loadbalancer; kubecon
+cizixs,cizixs,cizixs@163.com,Hangzhou,68,435,98,265,79,Go; Python; C; JavaScript; CSS,http; proxy-server; distributed-systems; tmux; proxy; go; algorithm; hexo; raft; vimrc
+nareix,,hi.nareix@gmail.com,,90,400,184,4391,751,Go; C; C++; JavaScript; Vim script,
+crossplane,Crossplane,info@crossplane.io,,49,515,0,13312,2173,Go; Dockerfile; TypeScript; Shell; Python,cloud-management; cloud-computing; hugo; terraform-provider; multicloud; cncf; serverless; gitlab; crossplane-provider; terraform
+sqlitebrowser,,,,22,452,0,24191,2426,Go; Ruby; HTML; CSS; C++,cloud; sqlite3; c-plus-plus; database-gui; database; db4s; database-as-a-service; sqlitebrowser; cross-platform; cli
+anacrolix,Matt Joiner,anacrolix@gmail.com,'Strayan Alps,188,777,100,8277,1006,Go; Rust; C; Elm; C++,http; bootstrap; go; proxy; transport; bittorrent-client; file-cloning; libav; magnet-link; tls
+sigstore,sigstore,info@sigstore.dev,United States of America,65,1496,0,11974,2788,Go; Python; Java; Ruby; Makefile,fish; rust-libraries; opa; automation; transparency-log; rekor; provenance; k8s; helm-charts; github-actions
+coredao-org,coredao-org,info@coredao.org,,44,971,0,904,562,TypeScript; Python; Go; JavaScript; Solidity,web3; blockchain; coredao; core; validator; btc; btcfi
+kataras,Gerasimos (Makis) Maropoulos,kataras2006@hotmail.com,Greece/Athens,62,1723,1,28712,2859,Go; TypeScript; HTML; C#; Inno Setup,router; http; template; dns-lookup; requestid; web-development; push-notifications; networking; go; stdout
+ooni,Open Observatory of Network Interference (OONI),contact@openobservatory.org,,79,436,0,2647,781,Go; Python; JavaScript; TypeScript; HTML,react-components; data-science; automation; data-pipeline; integration-testing; maxmind; networking; maxmind-db; design-system; golang-package
+dghubble,Dalton Hubble,dghubble@gmail.com,"San Francisco, CA",21,994,150,6048,771,Go; Shell; Nix; Jsonnet; Python,
+lapce,Lapce,,,42,583,0,44425,1652,Rust; HTML; Ruby; TypeScript; JavaScript,infrastructure-automation; remote-execution; vim; ui; configuration-management; rust; developer-tools; code-editor; text-editor; native
+beyang,Beyang Liu,beyang@sourcegraph.com,"San Francisco, CA",218,510,66,15,142,Go; TypeScript; C++; Shell; JavaScript,
+EG-A-S,EG A/S,devops-cto@eg.dk,Denmark,38,434,0,11,8,TypeScript; C#; JavaScript; Java; Ruby,dotnet; dotnet-core; php; localization; nuget; checkmarx-exclude; xena-nuget-public; xena-solution; xena
+go-kratos,Kratos,go-kratos@googlegroups.com,,20,667,0,29102,5204,Go; TypeScript; Astro,http; template; kratos; microservice; kratos-layout; docs; list; agent-sdk; service; microservices
+deta,Deta,hello@deta.surf,Germany,34,560,0,4290,425,TypeScript; Go; HTML; Python; Svelte,gpt-4; local; chat; claude; chatgpt; svelte; knowledge-base; ollama; openai; sveltekit
+lithdew,Kenta Iwasaki,,Hong Kong,86,407,1,2188,224,TypeScript; Zig; Go; C; JavaScript,client; http; microservice; arq; blake2b; mac; tcp; overlay-network; networking; go
+fiorix,Alexandre Fiori,fiorix@gmail.com,"London, UK",45,595,68,7728,1683,Go; Python; C; Shell; Rust,kids; game-development; game; freegeoip; ip-database; code-generation; geolocation; json-schema; sdl2; go
+refactorian,Refactorian,,,11,1152,1074,404,220,TypeScript; HTML; Blade; Dockerfile; SCSS,expo-font; nextcloud-installation; expo-image; laravel12; mariadb; redocly; localstack; hugo-documentation; hugo-theme; gitea
+tebeka,Miki Tebeka,miki@353solutions.com,Israel ,89,375,3,3298,551,Go; Python; Clojure; Rust; HTML,tcp; stemmer; command-line; read; traceback; go; statistics; python; io; security
+rivo,rivo,,"Berlin, Germany",13,347,0,14898,784,Go; Ruby; Clojure; HTML; CSS,user-interface; string-manipulation; terminal-based; unicode; golang; strings
+OpenListTeam,OpenList Team,openlistteam@gmail.com,China,49,1203,0,24211,2510,Go; TypeScript; JavaScript; Vue; Shell,docs; flutter; baidupan; api; aliyunpan; tauri; legacy; alist; android-application; frontend
+mhmdiaa,Mohammed Diaa,,,18,471,29,728,130,Go; JavaScript; Python,wordlist-generator; recon; web-application-security; crawler; visualization; crawling; wayback-machine; penetration-testing; user-interface; pentesting
+casualjim,Ivan Porto Carrero,ivan@flanders.co.nz,"San Jose, CA",261,356,26,161,67,Rust; Go; Shell; TypeScript; JavaScript,nuid; bitmap-compression; uuid; iterators; roaring-bitmaps; functional-programming; streaming; nats
+cnych,阳明,ych_1024@163.com,"China, Chengdu",123,1126,52,5167,2321,Go; Python; TypeScript; JavaScript; Dockerfile,jenkins; chatgpt; game; handbook; django; weixin; management-system; repository; operator-framework; free
+ardan-bkennedy,William Kennedy,bill@ardanlabs.com,"Miami, FL",0,1152,0,0,0,,
+andybons,Andy Bonventre,,NYC,35,624,1,152,36,Go; JavaScript; HTML; TypeScript; Swift,exercises; go; fun; feature-flags; react; crypto; css; garage-door-opener; preact; typography
+temporalio,temporal.io,,Bellevue,194,2812,0,28667,5403,Go; Python; CSS; TypeScript; Java,temporal-server; grpc-go; golang-examples; java-samples; distributed-systems; command-line; ci; workflow-automation; orchestration; docusaurus
+notedit,leeoxiang,leeoxiang@gmail.com,Mars,388,780,224,1331,348,Python; TypeScript; JavaScript; Go; HTML,live; record; rtp; gstreamer; recorder; simulcast; broadcast; rtmp; mixer; sdp
+AlistGo,AlistGo,dev@AlistGo.com,,30,364,0,52029,13057,TypeScript; Go; Shell; Vue; JavaScript,onedrive; webdav; react; gin; solidjs; file-server; golang
+faddat,Jacob Gadikian,jacobgadikian@gmail.com,New York,518,793,882,42,18,Go; Rust; JavaScript; Nix; Vue,crypto; cryptocurrency; privacy
+deepfence,Deepfence,,United States of America,61,433,0,14073,1770,Go; HCL; Rust; Shell; JavaScript,ci-cd; jenkins; cspm; machinelearningproject; packet-sniffer; machine-learning; security-scanner; compliance; microsegmentation; extension
+alexedwards,Alex Edwards,alex@alexedwards.net,Austria,11,1904,1,3998,324,Go; Ruby; Shell; Python; HTML,router; http; mux; routing; session; go; argon2; golang; context; sessions
+asticode,Quentin Renard,,,85,428,0,8576,1022,Go; PHP; JavaScript; C++; C,client; todo; toolbox; patch; mpegts; webvtt; splash-screen; bootstrap; go; transport-stream
+McK-Playground,,,,0,728,0,0,0,,
+vcaesar,Evans,vzvway@gmail.com,Mars,69,547,22,158,45,Go; C++; C; Python; JavaScript,opencv; automation; robot; computer-use; packt; processing; go; assert; keycode; bitmap
+Titannet-dao,TitanNetwork,titan@titannet.io,,23,394,0,109,72,Go; Python; TypeScript; JavaScript; Assembly,
+hashgraph,Hedera,admin@hedera.com,United States of America,91,905,0,1711,1066,TypeScript; Java; Go; JavaScript; Shell,hedera-hashgraph; hcs; consensus-service; microservice; decentralized-exchange; swift; service; go; ledger; hashgraph
+munnerz,James Munnelly,,"Birmingham, United Kingdom",138,379,39,1686,250,Go; Shell; Python; HTML; Smarty,
+tektoncd,Tekton,,,23,1354,0,13388,4813,Go; Python; Shell; CSS; JavaScript,pipelines; re-useable; command-line; experiment; k8s; test-infra; test-infrastructure; lint; tektoncd; operator-crd
+xianlubird,Xianlu Bird,xianlubird@gmail.com,Beijing,72,367,31,2243,638,Go; Python; JavaScript; Java; Smarty,cncf; kubernetes
+wagslane,Lane Wagner,,"Salt Lake City, UT",37,1857,4,1807,245,Go; JavaScript; CSS; Markdown; Python,rabbitmq-producer; go; golang-library; golang-package; character; entropy; devops-tools; rabbit; devops; security
+bufbuild,Buf,info@buf.build,Canada,78,742,0,21362,1575,Go; TypeScript; Makefile; JavaScript; Kotlin,bazel; http; schema; pubsub; compiler; spdx-license; validation; spdx-licenses; language-spec; go
+tiagorlampert,Tiago Rodrigo Lampert,tiagorlampert@gmail.com,"Paraná, Brazil",12,539,5,3551,912,Go; Java; HTML; Kotlin; CSS,spyware; webcam-capture; hacking-tool; chaos; screenshot; payload; java; hacktoberfest; java-8; persistence
+ory,Ory,office@ory.com,Germany,182,1981,0,54408,6386,Shell; TypeScript; Go; PHP; Java,permissions; docs; oauth; go; identity; reverse-proxy; openid-connect-provider; javascript; ory-hive; ory-hydra
+qiuyuzhou,Qiu Yuzhou,qiuyuzhou@gmail.com,"ShenZhen, China",47,909,5,58,40,Go; Python; JavaScript; C++; Lua,shadowsocks
+fastfire,fastfire,,,9,747,2,6688,1139,,cti; cyberhunter; threat-intelligence; deepweb; darkweb
+seenickcode,Nick Manning,,"Boston, MA",77,435,16,600,309,Go; Dart; JavaScript; Rust; HTML,flutter
+hijkzzz,,janhu9527@gmail.com,,34,690,52,8947,635,Python; HTML; C++; Shell; Go,style-transfer; wechat-jump; crawler; notes; mcts; stone; chain-of-thought; compiler; smac; openai-o1
+MatsuriDayo,,nekoha_matsuri@protonmail.com,,16,2985,0,37358,3418,Go; Kotlin; C++; JavaScript; Rust,shadowsocks; vmess; v2ray; android; sing-box; anticensorship; vpn; trojan; proxy; gfw
+ToutyRater,,,,10,1560,0,2278,651,Go; HTML; Shell,projectv; v2ray
+keiko233,Majokeiko,i@elaina.moe,127.0.0.1,80,358,59,194,42,TypeScript; Rust; C++; Vue; Shell,miku-ui; workers-ai; kysely; cloudflare-d1; cs2; nextjs; cloudflare; material-design; workers; counterstriksharp
+fatedier,,fatedier@gmail.com,,68,4196,11,105142,15167,Go; Shell; C++; TypeScript; C,firewall; http-proxy; reverse-proxy; nat; bot; ci; github-bot; tunnel; workflow; blog
+okx,OKX.com,,Singapore,156,1960,0,7208,1605,Go; Rust; TypeScript; C++; Solidity,web3; blockchain; dexrouter; typescript; proof-of-stake; cryptocurrency; evm; go; api; okx
+drgomesp,Daniel Ribeiro,drgomesp@gmail.com,"Florianópolis, Brazil",78,368,574,653,91,Go; Rust; PHP; C; JavaScript,devtools; grpc-go; dmg-001; symfony; automation; cosmos; gameboy; dependency-injection; decentralized; cosmos-sdk
+eycorsican,,leaf@leafproxy.org,,7,843,0,4186,1023,Rust; C,tun2socks
+kasmtech,Kasm,,"McLean, VA",32,896,0,7160,1174,Shell; JavaScript; Python; Smarty; Go Template,
+sumory,午夜,,Beijing,59,567,232,2228,707,JavaScript; Go; Java; C++; Lua,redux; state-management; web; cpp; lua; embedded-webserver; middleware; pubsub; apis; nginx
+zombiezen,Roxy Light,roxy@zombiezen.com,"SF Bay Area, CA",146,562,14,1493,106,Go; Nix; Rust; TypeScript; C,opencv; http; configuration; s3; github-actions; go; bash; ivy; inform7; javascript
+alena1108,Alena Prokharchyk,alena1108@gmail.com,"Mountain View, CA",96,640,26,96,55,Go; Shell; Python; Smarty; Java,
+mmcloughlin,Michael McLoughlin,mmcloughlin@gmail.com,"Pittsburgh, PA",86,649,1405,6411,323,Go; Python; Rust; C; C++,certificates; x86-64; geohash; code-generation; tor; openssl; go; assembly; golang
+ethanfrey,Ethan Frey,,"Berlin, Germany",62,501,11,61,24,Go; JavaScript; Python; Rust; TypeScript,
+lietoumai,猫开,87140514@qq.com,Shanghai,188,843,2367,1761,286,Python; Go; JavaScript; Shell; HTML,tips-and-tricks
+btkrausen,Bryan Krausen,,USA,13,1381,0,1885,2479,HCL; Dockerfile; HTML; Shell,labs; training; lab; codespaces; hashicorp; hands-on; terraform; vault
+lxn,Alexander Neumann,,,5,382,0,8512,1258,Go; C,windows-desktop; gui-toolkit; declarative; win32; gui; go; windows; declarative-ui
+go-gitea,Gitea,info@gitea.com,Git Earth,26,1418,0,54323,6745,Go; HTML; Shell; Makefile; Ruby,docker-registry-v2; lgtm; dark-theme; git-server; hugo; github-actions; redirects; api; go; git-gui
+fmzquant,Zero,,Singapore,9,1915,12,5791,1910,Python; Dockerfile; JavaScript; Vim Script; HTML,
+cblecker,Christoph Blecker,,"BC, Canada",144,383,0,22,4,Go; Python; Shell; HTML; Ruby,
+GoesToEleven,Todd McLeod,,,53,8847,25,16096,7016,Go; HTML; CSS; JavaScript; Java,
+cli,GitHub CLI,opensource@github.com,,10,1514,0,44067,8314,Go; Shell,git; oauth2; github-api-v4; github; cli; golang; gh-extension
+ehazlett,Evan Hazlett,,"Indianapolis, IN",246,570,34,9033,1483,Go; Shell; HTML; CSS; JavaScript,containerd; cni; steam; grpc; bot; networking; containers; discord
+AkihiroSuda,Akihiro Suda,suda.kyoto@gmail.com,"Tokyo, Japan",319,1712,0,599,42,Go; Shell; C; JavaScript; HTML,llm; golang; trivy; library-sandbox; vex
+dsnet,Joe Tsai,joetsai@digital-static.net,Santa Clara,29,1385,48,1212,128,Go; Python; C; HTML,backup; command-line-tool; bash-completion; bzip2; vpn; tunnel; networking; proxy; go; stdout
+fuzzland,fuzzland,chaos@fuzz.land,,68,450,0,3032,1005,Rust; Solidity; JavaScript; Go; C++,ctf; solidity; writeup; sui; blockchain; concolic-execution; ethereum; fuzzing; smart-contracts; evm
+etcd-io,etcd-io,etcd-dev@googlegroups.com,The Cloud,18,695,0,65792,12300,Go; HTML; Java; HCL,performance-visualization; k8s-sig-etcd; distributed-systems; go; raft; database; database-benchmarking; cncf; performance-analysis; angular5
+squillero,Giovanni Squillero,,Sol 3,32,602,12,271,139,Jupyter Notebook; Python; Go; HTML; Java,object-oriented-programming; learning-java; learn-to-code; politecnico-di-torino; computer-sciences; learning-c; oops-in-java; python; evolutionary-algorithms; multi-objective-optimization
+mattfarina,Matt Farina,matt@mattfarina.com,"Highland, Michigan, USA",183,658,30,190,85,Go; Smarty; Shell; HTML; Rust,semver
+ouqiang,qiang.ou,qingqianludao@gmail.com,"Xiamen, China",18,378,1,8495,1916,Go; PHP; Rust,crontab; supervisor; httpproxy; delayqueue; redis; event-handler; etcd-client; delayed-job; mitmproxy; delay-task
+cj123,Callum Jones,cj@icj.me,"Halifax, United Kingdom",59,756,42,623,177,Go; JavaScript; Shell; PHP; HTML,firmware; apple-tv; ios; spotify; ipad; jailbreak; iphone; spicetify; ipsw; spicetify-extensions
+googleforgames,GoogleForGames,,,16,515,0,10735,1393,Go; Python; C++; CSS; C#,open-match; dedicated-gameservers; game-development; gaming; go; matchmaking; google; python; spanner; machine-learning-games
+ethereumpow,EthereumPoW (ETHW) Official,,,10,458,2,281,127,C++; Go; JavaScript; Solidity,docs
+esimov,Endre Simo,esimov@gmail.com,,59,973,1,19620,1005,Go; Rust; JavaScript; Ruby; TeX,opencv; facemask; face-tracking; go; demo; rgba; draw; tcell; stackblur; pigo
+danicat,Daniela Petruzalek,daniela.petruzalek@gmail.com,"London, UK",93,929,41,1760,268,Go; HTML; PLSQL; Python; R,game; pac-man; golang; tutorial
+nsf,,no.smile.face@gmail.com,"Yekaterinburg, Russia",75,844,0,13705,1544,Go; C++; C; TypeScript; JavaScript,
+kubewharf,KubeWharf,,China,22,777,0,4764,646,Go; CSS; Smarty; Shell; HTML,gateway; scalability; load-balancer; enhancement; etcd; serverless; kubernetes; kv-store; metadata; apiserver
+ozontech,Ozon Tech,,,26,576,0,2138,390,Go; Rust; Swift; TypeScript; Kotlin,http; finite-state-machine; input; stateless; orchestration; workflow-automation; actions; go; proxy; reporting
+lavalamp,Daniel Smith,,NV,25,657,0,7,2,Go; Python; HTML; Jupyter Notebook,
+RedTeamPentesting,RedTeam Pentesting GmbH,kontakt@redteam-pentesting.de,Germany,15,434,0,3049,283,Go; Python; PHP; PostScript,spoofer; dhcpv6; fast; netbios; pentesting; mdns; fuzzer; http; enumerator; pretender
+talent-plan,Talent Plan Learning Community,talent-plan@tidb.io,,10,353,0,5935,1637,Go; Python; TypeScript,
+fly-apps,Fly.io Apps,,,225,344,0,4262,1022,Go; JavaScript; Shell; Python; TypeScript,bumblebee; discord-bot; flyio; ruby; django; mistral; ollama; llm; llama3; whisper
+telia-company,Telia Company,,Sweden,0,988,0,0,0,,
+chanwit,Chanwit Kaewkasi,,Nakhon Ratchasima,338,481,28,228,252,Go; Python; Dockerfile; Shell; TypeScript,eks; eks-d; kubernetes; k0s; aws
+streamlit,Streamlit,,,108,4500,0,50304,36380,Python; TypeScript; JavaScript,data-science; data-visualization; genai; streamlit; editor; deep-learning; cheminformatics; python; streamlit-components; streamlit-app-starter-kit
+theckman,Tim Heckman,,"Los Angeles, CA",181,397,18,613,40,Go; Ruby; Shell; Python; Emacs Lisp,cron-jobs; go; golang-library; runtime; mechanize; chef; slack-api; lwrp; cron; metrics
+EgeBalci,Ege Balcı,,"Den Haag, Netherlands",283,1769,263,4510,701,Go; Python; Assembly; C++; TypeScript,detection; amber; assembly; exploit; pe; payload; shellcode-loader; binary; antivirus; yara
+dvyukov,Dmitry Vyukov,,Munich,52,2702,1,5594,405,Go; C; C++; LLVM; Dockerfile,go; testing; fuzzing
+why404,404,,Shanghai,44,492,185,57,16,Go; Ruby; PHP; Java; Python,
+moov-io,moov,support@moov.io,"Golden, CO",63,403,0,3357,1119,Go; TypeScript; Ruby; Shell; Python,sftp-client; credit-history; 837p; ofac; money; emv; fed-wire; fintech; irs; testing
+twpayne,Tom Payne,,"Zürich, Switzerland",167,4896,91,20932,921,Go; PowerShell; CUE; Shell; JavaScript,geometry; configuration; pubsub; dotfile-management; encoding; go; flight; json-schema; gnupg; rogpeppe
+qw4990,Yuanjia Zhang,zhangyuanjia@pingcap.com,Chengdu,61,427,37,1070,175,Go; C; Rust; C++; Python,json-parser; express; yacc; evaluator; parser; golang; json
+battlebrain,BattleBrain,,,4,358,454,5,1,,
+LGUG2Z,Jeezy,,"Seattle, WA",111,676,47,18193,670,Rust; Go; Nix; TypeScript; C,diesel-rs; configuration; pashto; neovim; binary-space-partition; svelte; ci; editor; status-bar; wsl2
+stapelberg,Michael Stapelberg,,"Zürich, Switzerland",273,1691,1,1138,93,Go; C; Python; HTML; Nix,golang-package; sensor; google-drive; iot; scan; mqtt; shelly; golang; door; scanner
+fzerorubigd,Forud,fzero@rubi.gd,Berlin,159,756,39,978,108,Go; Shell; OpenSCAD; HTML; Python,mock; redis; bgg-library; boardgamegeek; boardgame; validation; github-actions; go; bgg-api; context
+sebkinne,Sebastian Kinne,,,2,508,2,1,1,Lua,
+jefferai,Jeff Mitchell,jeffrey.mitchell@gmail.com,Boston,60,433,9,28,9,Go; C++; Lua; Vim script; Shell,
+zeebo,Jeff Wendling,,"Virginia Beach, VA",104,353,0,1785,152,Go; Python; OCaml; Rust; CSS,dwarf; go; unsafe; golang
+weaveworks,Weaveworks,,"London, Berlin, NY, Colorado, SF, Remote",147,418,0,27124,3742,Go; Shell; JavaScript; TypeScript; Python,weave-gitops-enterprise; pipelines; no-dependencies; eks; edsl; tcp; backstage; demos; k8s; ebpf
+wangkuiyi,Yi Wang,wyi@apple.com,"San Francisco Bay Area, CA",225,1291,4,499,67,Python; Go; Shell; Dockerfile; C++,
+marichi67,marichi,,,13,520,824,30,11,,
+myleshorton,Myles Horton,,,20,631,55,16,217,Go; JavaScript; Java; HTML; Shell,censorship-circumvention
+encoredev,Encore,support@encore.dev,Sweden,34,481,0,12165,759,Go; TypeScript; Nix; Ruby; Rust,encore; cheatsheet; nodejs-framework; distributed-systems; api; microservices; go; backend; postgresql; database
+ncw,Nick Craig-Wood,nick@craig-wood.com,"Guildford, UK",99,1145,3,1738,312,Go; Python; Jupyter Notebook; C; Shell,neopixel; game; oauth; memory-cards; kitty; github-actions; iterm2; actions; go; proxy
+masa-finance,Masa,,,59,578,0,681,410,TypeScript; Go; Python; Jupyter Notebook; JavaScript,analytics; docs; session; docusaurus; smart-contracts; identity; oracle; circom; react; sdk
+mdempsky,Matthew Dempsky,matthew@dempsky.org,"Westminster, CO",83,904,5,2094,180,Go; C; C++; TypeScript; HTML,
+carolynvs,Carolyn Van Slyck,me@carolynvanslyck.com,"Chicago, IL",273,421,2,298,50,Go; Makefile; JavaScript; HTML; TypeScript,docker; make; porter; spf13-viper; cnab; spf13-cobra; go; mage; golang; magefile
+hongchaodeng,Hongchao Deng,fengjingchao@gmail.com,"San Francisco, CA",130,595,79,41,16,Go; Python; Shell; Smarty; CUE,
+42wim,Wim,,https://twitter.com/42wim,201,461,2,8455,897,Go; PowerShell; Shell; Rust; Perl,twitch; zulip; mattermost; ircd; tls-support; mumble; gpg; secrets; vault; irc
+go-programming-tour-book,《Go 语言编程之旅：一起用 Go 做项目》,,,7,377,0,1058,435,Go,chatroom; cache; tcp; websocket; go; golang
+joatmon08,Rosemary Wang,,,117,553,0,873,964,HCL; Go; Shell; Python; JavaScript,hashicorp; backstage; secrets; spring; vault; postgresql; terraform; boundary; terraform-module; docker
+robfig,Rob Figueiredo,,,115,737,8,15060,1975,Go; Python; Starlark; Shell; JavaScript,
+bgrant0607,Brian Grant,,,24,798,0,4,2,Go; HTML,
+fuyufjh,Eric Fu,,Singapore,72,539,14,520,105,Java; Python; JavaScript; Go; TypeScript,gpt-4; tensorflow; rss-aggregator; chatgpt; deep-learning; openai; golang-library; gpt; splunk; rss
+k82cn,Klaus Ma,klausm@nvidia.com,Beijing China,189,544,6,69,15,Go; Rust; C; Python; Shell,cost-optimization; kubelet; vimrc; cloudnative; containers; golang; emacs-configuration
+shivsinghin,Shiv Singh,contact@shivsingh.com,India,17,457,20,3,0,Python; TypeScript; JavaScript; HTML,
+larien,Lauren Ferreira,lauren.ferremch@gmail.com,Brazil,45,402,74,576,75,Go; Python; JavaScript; Vue; CSS,flask; ci-cd; learn-go; k8s; aprenda-go; microservices; go; helm; mocking; postgresql
+justinclift,Justin Clift,justin@postgresql.org,3753 Cruithne,66,348,10,91,21,Go; Python; JavaScript; LLVM; HTML,wasm; webgl; codeium; windsurf-ai; go; windsurf; tinygo; golang; webassembly
+jonbodner,Jon Bodner,,@jonbodner@noc.social,80,460,9,362,44,Go; Python; JavaScript; Java; Shell,
+yongtang,Yong Tang,,"San Francisco Bay Area, CA",38,690,0,56,38,Python; Go; C++; Java; Mathematica,
+miku,Martin Czygan,,"Leipzig, Germany",500,375,1116,1867,186,Go; Python; HTML; C; Makefile,luigi; http; luigi-pipeline; command-line-tool; code-generation; store; unzip; archive; context; document-analysis
+shen100,liushen,liushen_shen@163.com,,9,358,0,5235,1282,JavaScript; ActionScript; Go; Vue,vue; node; typeorm; wexin; react; nestjs; nodejs; cms; javascript; blog
+feyeleanor,Eleanor McHugh,eleanor@games-with-brains.com,London,71,354,21,906,77,Go; Ruby; JavaScript; HTML; C,networking; cryptography; websocket; golang; sinatra
+prometheus,Prometheus,,,51,4262,0,125801,26952,Go; TypeScript; Java; Shell; Makefile,deduplication; prometheus-client; mbean; notifications; opsgenie; node-metrics; pseudo-filesystem-proc; statsd; ruby; go
+r2d4,Matt Rickard,git@mattrickard.com,,93,783,0,2350,129,Go; Python; JavaScript; TypeScript; Shell,configuration; huggingface-transformers; openai; llm; gpt; react; devops; embeddings; docker; merge
+casbin,Casbin,,"San Francisco, CA",114,576,0,35657,4251,Go; JavaScript; TypeScript; Python; HTML,permissions; yarn; http; redis; beego; tailwindcss; casbin-mesh; docs; oauth; session
+itchio,itch.io,support@itch.io,,86,1690,0,4910,601,Go; JavaScript; C++; C; TypeScript,bindings; game-development; paths; utility-library; translations; electron; sharing; strings; transcoding; audio
+josharian,Josh Bleecher Snyder,josharian@gmail.com,Bay Area,187,1238,5,1629,132,Go; Python; Objective-C; Swift; C,
+harness,Harness ,,,159,571,0,34977,3956,Go; Smarty; TypeScript; HCL; Shell,ci-cd; pipelines; continuous-delivery; build-pipelines; ci; ruby; go; feature-flags; feature-toggles; sdk
+jmhodges,Jeff Hodges,,San Francisco,241,527,30,2421,344,Go; Java; Ruby; C++; Python,
+julycoding,July,786165179@qq.com,"Beijing, China",6,5143,12,22116,7162,C; Go; TeX,
+dgryski,Damian Gryski,damian@gryski.com,"Vancouver, Canada",203,3269,186,19384,1483,Go; Rust; C; Shell; Python,performance; performance-analysis; raft; paxos; optimization; awesome; performance-optimization; consensus-algorithm
+aofei,Aofei Sheng,aofei@aofeisheng.com,Hong Kong,48,589,0,708,67,Go; Dockerfile; Swift; JavaScript,http; suite; mime; swift; routing; magic-number; go; framework; generator; minimalist
+apourchet,Antoine Pourchet,antoine.pourchet@gmail.com,"Boulder, CO",37,433,12,63,15,Go; Java; Matlab; JavaScript; Shell,rpc-framework; rpc; golang; gin
+andot,不帅任你踹,mabingyao@gmail.com,China,58,591,55,1222,241,Go; Java; JavaScript; Python; PowerShell,
+go-vikunja,Vikunja,hello@vikunja.io,,10,377,0,4363,443,TypeScript; Go; Roff; Dart; Shell,todo; flutter; api; todoapp; vue; electron; frontend; javascript-applications; javascript; docker
+galeone,Paolo Galeone,nessuno@nerdz.eu,Italy,78,373,0,3615,330,Go; C++; Python; JavaScript; Rust,opencv; tensorflow; backup; rts; dataset; igor; lcd; fitbit-sdk; dbms; convolutional-neural-networks
+kubesphere,KubeSphere,info@kubesphere.io,Global,110,1026,0,22355,10250,Go; Dockerfile; Shell; Java; TypeScript,jenkins; components-library; charts; app; k8s; kubernetes-cluster; hugo; ebpf; helm-charts; helm
+gyliu513,Guangya Liu,gyliu@apache.org,,481,492,6,31,13,Python; HTML; Jupyter Notebook; Shell; Go,
+gurufinglobal,Gurufin global,,,11,2295,0,27,8,Go; Kotlin,
+johanbrandhorst,Johan Brandhorst-Satzkorn,johan.brandhorst@gmail.com,"Sḵwx̱wú7mesh, Canada",146,1253,26,1924,265,Go; JavaScript; TypeScript; CSS; HTML,client; protobuf3; hugo; authentication; vault; go; grpc-web; cfssl; tls; authorization
+zigo101,zigo101,,,0,724,0,0,0,,
+ice-blockchain,ice-blockchain,,,82,4573,0,587,193,Go; Dart; TypeScript; JavaScript; Python,
+xiam,José Nieto,jose@xiam.io,Mexico City,38,609,38,842,182,Go; JavaScript; C++; Arduino; Vim Script,go; security; password-generator
+huydx,huydx,,Tokyo,129,601,31,1296,112,Go; Java; Ruby; C++; Scala,
+christopherhesse,Christopher Hesse,,"San Francisco, CA",81,352,8,166,13,Python; Go; JavaScript; C++; C,
+zserge,Serge Zaitsev,,"München, Germany",103,2282,16,24342,2353,Go; C; JavaScript; HTML; Java,chiptune; arithmetic; expr; minimal; beeper; parsing; gauge; interpreter; minimalism; histogram
+SagerNet,Project S,contact@sagernet.org,Crazy Universe,86,2166,0,40825,6774,Go; Java; C; Kotlin; Swift,anti-censorship; android; shadowsocks-2022
+netxfly,netxfly,,beijing,25,1379,205,4556,1169,Go; Python; HTML; Lua,
+3rf,Kyle Erf,,New York City,30,603,0,156,33,Go; JavaScript; Python; TypeScript; C,
+andrew-d,Andrew Dunham,andrew@du.nham.ca,,257,347,65,3996,698,Go; Rust; Python; Shell; C,observability; dns-server; homelab; healthcheck; dns; proxmox; go; golang; monitoring
+picosh,pico.sh,hello@pico.sh,United States of America,31,472,0,1878,70,Go; CSS; Python; Shell; TypeScript,github-action
+minux,Minux Ma,,中国,48,551,43,91,10,Go; C; C++; TeX; Assembly,tikz; heirloom; troff; pgf; opensolaris; sandbox; unix
+odeke-em,Emmanuel T Odeke,,"Palo Alto, California",213,713,48,6835,446,Go; C; Java; JavaScript; C++,storage; cloud; earthquake-data; usgs-api; sync; google-drive; usgs; cli; golang
+cdecker,Christian Decker,,"Zurich, Switzerland",57,616,21,361,133,Python; Go; Shell; JavaScript; Java,
+lizrice,Liz Rice,liz@lizrice.com,London,100,3728,4,7163,1112,Go; Python; C; Shell; JavaScript,alexa-skill; cgroups; alexa; namespaces; python; linux-kernel; cloudevents; containers; kubernetes; ebpf
+byxbe,Byxbe,,London,35,768,610,96,0,Go; Rust; Python; TypeScript,
+zchee,Koichi Shiraishi,zchee.io@gmail.com,"Tokyo, Japan",819,766,990,291,54,Go; Python; Lua; Shell; JavaScript,neovim; go; llms-txt; nvimrc; json-schema; wiki; cue; llm; tumix; vimrc
+jba,Jonathan Amsterdam,,New York,86,524,0,342,23,Go; JavaScript; HTML; Python; C++,
+tdewolff,Taco de Wolff,tacodewolff@gmail.com,Netherlands / Chile,33,426,0,6971,479,Go; Python; JavaScript; CSS; Ruby,eps; minifier; pdf; minify; go; rasterizer; font; path; svg; css
+derekparker,Derek Parker,parkerderek86@gmail.com,"Bay Area, CA",94,911,20,1577,267,Go; Ruby; Shell; VimL; C,
+accordproject,Accord Project,admin@accordproject.org,Global,62,409,0,1534,1524,JavaScript; TypeScript; HTML; Rust; Java,template-engine; contracts; schema; validator; clause; ms-word; smart-contracts; tezos; validate; legal-templates
+claucece,Sofía Celi,,AMS/LIS/UIO,213,646,397,379,45,Go; Makefile; HTML; Rust; C,anonymous-credentials; cryptography; security; elliptic-curves; otr
+karilho,Lucas Carrilho,,,34,549,14,199,165,Go; Java; JavaScript; Lua; Makefile,
+gorilla,Gorilla web toolkit,gorilla-maintainers@googlegroups.com,The World,19,1935,0,57383,7292,Go; HTML,gorilla-web-toolkit; router; http; schema; securecookie; cookies; websockets; issue-templates; mux-router; go
+yangzhe1991,Zhe (Phil) Yang,yangzhe1991@apache.org,Shanghai,18,516,27,30,10,Go; Java; Python; PHP; Scheme,
+liggitt,Jordan Liggitt,jordan@liggitt.net,United States,176,1360,0,1130,93,Go; Shell; HTML; Java; HCL,openshift; rbac; kubernetes; audit; golang; utilities; authorization
+mattes,Matt,matt.kadenbach@gmail.com,California,69,400,1427,4679,822,Go; JavaScript; Ruby; Shell; PHP,deploy; zap-core; rotating-proxy; enlightenment; ruby; libjpeg; dnsmasq; mariadb; openssl; proxy
+flisky,尹吉峰,jifeng.yin@gmail.com,Chengdu,82,349,25,104,45,Rust; Go; Python; JavaScript; Java,
+klauspost,Klaus Post,,Denmark,138,3808,6,11256,990,Go; Assembly; HTML,deflate; zstandard; zstd; gzip; decompression; zip; snappy; go; compression; golang
+rs,Olivier Poitrey,,"Silicon Valley, California, USA",123,5032,10,32795,2667,Go; Python; Objective-C; C; Ruby,memstats; smtp-protocol; esmtp-extensions; webdevelopment; iterm2; api; jplot; httpie; zerolog; go
+bacongobbler,Matthew Fisher,matt.fisher@fermyon.com,"Cedar, BC, Canada",362,510,26,163,44,Rust; C#; TypeScript; JavaScript; HTML,
+arastu,Touhid Arastu,touhid.arastu@gmail.com,Tehran,10,596,509,429,127,Go; Ruby; PHP; JavaScript; Python,province; twitter-bot; isfahan; fun; twitter; xml; tehran; body; shiraz; persian
+imjasonh,Jason Hall,jason@chainguard.dev,"Brooklyn, NY",431,604,18,491,47,Go; JavaScript; TypeScript; Rust; Shell,build; license; ssh; govulncheck; metrics; chess; multiplayer; github-actions; containers; vulnerabilities
+manishrjain,Manish R Jain,manishrjain@gmail.com,"San Francisco, CA",39,811,31,488,54,Go; HTML; C; Svelte; JavaScript,
+matiasinsaurralde,Matias Insaurralde,matias@insaurral.de,Paraguay,385,1875,7319,175,22,Go; C; TypeScript; Python; Jupyter Notebook,homomorphic-encryption; libxml2; sl; nodemcu-esp8266; esp32; observability; serial-communication; llm; microvm; metrics
+heroiclabs,Heroic Labs,hello@heroiclabs.com,San Francisco,35,364,0,16047,2342,C#; Go; C++; GDScript; JavaScript,realtime-server; chat; unity-tutorials; realtime-games; unreal-engine; protobuf3; game; game-backend; gamedev; flutter
+genedna,Quanyi Ma,eli@patch.sh,"Beijing, China",54,519,4,3,2,Rust; Starlark; TypeScript; JavaScript; MDX,
+mariusae,marius a. eriksen,marius@monkey.org,"bay area, california",77,846,67,1473,174,Go; C; Haskell; Python; OCaml,acme; plan9; t1d; golang; tools; loop
+name5566,Name5566,name5566@gmail.com,,12,504,22,5913,1588,Go; VimL; C++; C,leaf; game-framework; go; golang; game-server
+terrastruct,Terrastruct,info@terrastruct.com,United States of America,18,389,0,25192,790,Shell; Go; TypeScript; JavaScript; D2,automation; script; ascii-art; obsidian; layout-engine; dsl; go; d2; text-to-diagram; ascii
+jehiah,Jehiah Czebotar,jehiah@gmail.com,"New York, NY",149,396,74,1299,216,Go; Python; HTML; Shell; C++,legislation; svc; json2csv; bigquery; cache; open-government; workcycles; hadoop; mrjob; go
+brocaar,Orne Brocaar,info@brocaar.com,"Aljezur, Algarve, Portugal",73,1032,0,2941,1444,Go; Python; Rust; C; C++,network-server; lora-server; lora; iot; chirpstack; lorawan; loraserver; internet-of-things; application-server
+celestiaorg,Celestia,,,200,2903,0,3471,3498,Go; Rust; Solidity; JavaScript; TypeScript,verifiable-computation; messaging; tokenmetry; app; tendermint; celestia-app; helm-charts; cosmos-sdk; code-analysis; infra
+vmware-tanzu,VMware Tanzu,,,69,731,0,22580,5065,Go; Shell; Mustache; Java; HTML,ci-cd; lifecycle; imagerepository; mavenartifact; vsphere; discovery; cloudfoundry; application-modernization; byoh; opinions
+MENOT02, Prashant,,California,59,1179,545,346,0,JavaScript; Python; TypeScript; PHP; Rust,
+rancher,Rancher,,,666,1324,0,37076,9523,Go; Dockerfile; Shell; Makefile; TypeScript,selinux; kubernetes-security; rancher2; fleet; orchestration; k8s; helm; digitalocean; suse; terraform-provider
+heiyeluren,黑夜路人,heiyeluren@gmail.com,China Beijing,18,368,108,1785,300,Go; C; Shell; Python; PHP,
+dchest,Dmitry Chestnykh,dmitry@codingrobots.com,Montenegro,218,551,68,6204,954,JavaScript; Go; HTML; TypeScript; C,sha512; scrypt; tweetnacl; sha-512; hkdf; hash; uuid; authentication; go; pbkdf2
+gravitational,Teleport,info@goteleport.com,United States of America,193,572,0,24459,2773,Go; TypeScript; Python; HCL; Shell,teleport; firewalls; pam; go; monitoring-tool; firewall; audit; workshop; security; docker
+dwarvesf,Dwarves Foundation,team@d.foundation,,133,387,0,17042,863,TypeScript; Go; JavaScript; Swift; Python,configuration; template; tailwindcss; mac; technology; go; status-page; mastra; workflow; smartcontract
+tessr,Tess Rinearson,,Berlin,27,462,2,93,10,Go; Python; Java; CSS; Perl,
+RichardKnop,Richard Knop,,London,193,531,73,10457,1371,Go; Python; JavaScript; Shell; C,redis; django; task-scheduler; amqp; go; jsonhal; ansible; aws-sqs; memcached; llm
+matteocourthoud,Matteo Courthoud,matteo.courthoud@gmail.com,"Zurich, Switzerland",22,391,0,1517,354,Jupyter Notebook; HTML; MATLAB; Python; TeX,julia; latex; data-science; plots; ioslides; qlearning; hugo; phd; rmarkdown; latex-template-cv
+ngrok,ngrok,support@ngrok.com,United States of America,43,1269,0,3255,4654,Go; Rust; JavaScript; Java; MDX,ingress-controller; ngrok; networking; ngrok-client; api; go; golang-library; reverse-proxy; python; java
+abiosoft,Abiola Ibrahim,git@abiosoft.com,Nigeria,124,1576,8,31003,1309,Go; Shell; HTML; PHP; CSS,template; neovim; tmux; go; caddy-plugin; json-schema; exec; plank-dock; init; container
+prashantv,Prashant V,,"San Francisco, CA",87,433,6,512,39,Go; JavaScript; Shell; TypeScript; HTML,
+plxity,Apoorv Taneja,purutaneja.com@gmail.com,blr,56,600,87,271,72,JavaScript; TypeScript; HTML; CSS,supabase; nexmo; npm; spotify-api; mediapipe; reactjs; css3; canvas2d; css; frontend
+davyxu,Davy xu,sunicdavy@qq.com,"Chengdu  Sichuan, China",45,912,36,6763,1578,Go; C#; C++; C,csharp; gameserver; protocol-parser; xlsx; protobuf3; game; service-discovery; networking; protoc; exportor
+smira,Andrey Smirnov,Smirnov.Andrey@gmail.com,Georgia,188,390,22,301,98,Go; Python; SCSS,statsite; kmip; twisted; kms; python; zeromq; zero-allocation; go; statsd; golang
+telia-oss,Telia OSS,,,132,435,0,539,330,HCL; Go; Python; TypeScript; JavaScript,csharp; grpc-go; cloudwatch-logs; grpc-interceptor; secrets; cloudwatch; github-actions; sns; concourse; protoc
+devanshbatham,Devansh Batham,devanshbatham009@gmail.com,India,32,1881,0,13258,2306,Python; Go; JavaScript,bughunting-writeups; subdomain-scanner; recon; subdomain-finder; parameter-finder; email-enumeration; backups-finder; crawler; configurationfiles; admin-panel-finder
+koyeb,Koyeb,hi@koyeb.com,France,134,475,0,375,777,Python; TypeScript; Dockerfile; JavaScript; Go,
+digitalocean,DigitalOcean,contact@digitalocean.com,United States of America,346,2715,0,12989,5967,Go; Python; TypeScript; JavaScript; Shell,nbd-client; storage; app-template; openapi3; ovsdb; sample; hashicorp; digitalocean-app-platform; cloud-providers; command-line
+harsh-bothra,Harsh Bothra,,India - Remote,22,823,0,2955,848,HTML; Go; Shell; Java,application-security; infosec; community; pentesting; learning; hacking; bugbountytips; bugbounty; vulnerabilities; appsecurity
+adrianco,Adrian Cockcroft,,"Salinas, CA",44,1045,15,1937,228,Go; R; Python; Swift; JavaScript,
+kardianos,Daniel Theophanes,kardianos@gmail.com,,69,348,1,10466,1269,Go; C; HTML,go; golang; vendor
+smartgeek1003,smartgeek1003,,United States,47,556,614,45,61,JavaScript; TypeScript; PHP; CSS; Java,
+helios-network,Helios Chain,contact@heliosfoundation.network,,45,2701,0,315,125,TypeScript; Go; JavaScript; Solidity; HTML,cosmos; tendermint; verification; ibc; sparse-merkle-tree; ics-23; light-client; ics23; non-membership; smt
+nymtech,Nym,,,57,1739,0,3700,696,Rust; Go; TypeScript; Python; JavaScript,vpn; networking; decentralized; privacy-tools; bridge; rust-lang; mixnets; wireguard; android-app; windows-app
+89996462,彭于晏,,,4,1001,4,1260,245,JavaScript,
+krisnova,Kris Nóva,nova@nivenly.org,,388,3612,1,4194,362,Go; Shell; C; HTML; Rust,hello; grep; sample; tcp; hacker; hugo; ebpf; go; vulnerability; example
+meatballhat,Dan Buch,dan@meatballhat.com,"Pittsburgh, PA",9,400,496,8,2,Go; TypeScript; Nix; Ruby,
+ttaylorr,Taylor Blau,ttaylorr@github.com,,38,779,0,164,26,Ruby; Go; Java; C; TeX,
+brendandburns,Brendan Burns,,"Seattle, WA",217,3334,1,2623,814,Go; C++; Python; TypeScript; C#,
+karalabe,Péter Szilágyi,peterke@gmail.com,,41,3012,1,3588,570,Go; C; Shell; TypeScript; Makefile,messaging; ipfs; ssz; processes; erc20; akasha; decentralized; go; ledger; rest-api
+justincormack,Justin Cormack,justin@specialbusservice.com,"Suffolk, UK",235,1072,15,1061,145,Go; Dockerfile; HTML; C; Shell,blog
+silenceper,silenceper,,"ShenZhen, China",144,451,84,7685,1645,Go; Shell; HTML; C; Java,pool; wda; weixin; go; lists; keda; hotreload; automate; debug; ai-coding
+obscuren,Jeffrey Wilcke,jeff@grid-games.com,"Amsterdam, NL",50,1802,1,315,92,Go; JavaScript; C; C#; C++,
+istio,Istio,,,41,1005,0,45480,14260,Go; C++; HTML; Shell; Makefile,microservice; proxies; enforce-policies; requests; microservices; api; proxy; mixer; lyft-envoy; utilities
+natefinch,Nate Finch,,"Massachusetts, USA",72,825,7,8552,930,Go; CSS; HTML; C; JavaScript,go; golang; code-generation
+nilslice,Steve Manuel,,,319,353,378,826,43,Rust; TypeScript; Go; CSS; Zig,productivity; polymorphism; protobuf; tools; zig; proto-files; protocol-buffers; cli; protoc; interface
+nicholasjackson,Nicholas Jackson,jackson.nic@gmail.com,London,316,1856,10,2066,585,Go; HCL; Python; MDX; JavaScript,environment-variables; consul; wasi-standard; digitalocean; sphero; testing-tool; terraform; kubernetes; microservices; wasm-modules
+dmitshur,Dmitri Shuralyov,dmitri@shuralyov.com,Toronto,1,2439,356,5,0,HTML,talks
+tulna07,Tu Le,tu.lna07@gmail.com,"Ho Chi Minh City, Vietnam",40,4532,13567,335,10,JavaScript; HTML; HCL; Python; Shell,redux; responsive; cinema; ui; reactjs; scss; css3; html; material-ui; css
+elimisteve,Steve Phillips,steve@tryingtobeawesome.com,"San Francisco, CA",413,678,1909,65,8,Go; Python; V; Shell; Svelte,philosophy; python; analytic-philosophy
+ebuchman,Ethan Buchman,,"Guelph, Ontario",45,664,25,222,60,Go; Python; Shell; TeX; C,
+monzo,Monzo,,"London, UK",176,799,0,3798,637,Go; Objective-C; Swift; JavaScript; C++,http; egress; networking; envoyproxy; microservices; vault; go; slack-bot; incident-reports; incident
+egorsmkv,Yehor Smoliakov,egorsmkv@gmail.com,,186,438,1025,1491,501,Python; Go; PHP; Rust; HTML,nemo; bootstrap; go; feel-the-heap-allocation; django-login; vocoder; denoiser; voice-activity-detection; apis; whisper
+aluzzardi,Andrea Luzzardi,,"San Francisco, CA",66,436,16,1622,389,Go; Python; Shell; MDX; C,
+madelynnblue,Madelynn Blue,blue.mlynn@gmail.com,"Boulder, CO",26,394,0,5015,547,Go; JavaScript; TypeScript; C++; Nunjucks,
+gaocegege,Ce Gao,cegao@tensorchord.ai,,442,3289,2301,87,49,Go; Dockerfile; Python; JavaScript; C,
+1Password,1Password,support@1password.com,"Toronto, Canada",91,1959,0,12276,2263,Go; Rust; TypeScript; Python; Shell,password-manager; k8s; 1password-cli; password-management; github-actions; helm; helm-charts; 1password-vaults; go; ansible
+misbot,misbot,,Cloud,1,563,1226,1,1,,
+f2prateek,Prateek Srivastava,me@prateek.io,"Vancouver, BC, Canada",92,1292,0,4211,499,Go; Java; JavaScript; CSS; Objective-C,intent-builder; intent; android; annotation-processor; navigation; henson
+broady,cbro,cbro@ahimsalabs.net,,130,1103,46,298,83,Go; JavaScript; TypeScript; Python; HTML,appengine; http; postgresql; typescript; rpc; appengine-go; sqlc; postgres; openapi; api
+ahsenneliss,ahsen,,,8,345,361,5,1,,github-config; config
+divan,Ivan Danyliuk,ivan.daniluk@gmail.com,"Kyiv, Ukraine",119,1263,36,8694,609,Go; JavaScript; Dart; HTML; Lua,go; golang
+MoneroDiamond,,,"Helsinki, Finland",1,1742,0,54,9,,
+chewxy,Chewxy,,Sydney,89,416,95,607,90,Go; Python; JavaScript; Emacs Lisp; C,conll-u; inflection; elisp; part-of-speech; go; emacs; language-model; nlp; data-structures; rope-string
+benbjohnson,Ben Johnson,benbjohnson@yahoo.com,Colorado,169,4235,59,25851,1391,Go; Ruby; JavaScript; C; SCSS,music; synthesizer; s3; replication; erb; template-language; application; podcasting; immutable; youtube
+babylonchain,BabylonChain Inc.,admin@babylonchain.io,,24,583,0,54,285,Go; Rust; Shell; JavaScript; Standard ML,
+CaitieM20,Caitie McCaffrey,caitiem20@github.com,Seattle WA,18,519,3,714,75,JavaScript; Go; C#; Python; C++,
+btcsuite,Bitcoin in Go,,,28,507,0,9133,4225,Go; C#; CSS,btcd; hacktoberfest; bitcoin
+jelspace,21world,,,4,5167,116117,70,8,C,
+tmrts,Tamer Tas,contact@tmrts.com,,45,490,8,29700,2497,Go; Python; C; JavaScript; Scala,template; cache; distributed-systems; patterns; centos; go; boilerplate-template; xmonad; cloud; boilerplate
+xiaokangwang,Xiaokang Wang (Shelikhoo),xiaokangwang@outlook.com,Dublin,147,616,5,363,219,Go; Java; JavaScript; Shell; C++,
+bingohuang,QingBing Huang,770581715@qq.com,Hangzhou,79,488,97,3556,711,Go; Java; JavaScript; Python; Shell,gocn; news; talks; nowcoder; gitbook; llama-3; 12-factor; docker-lab; multi-language; go
+remote-android,,ziyang.zhou@outlook.com,,48,512,0,6331,1195,C++; C; Makefile; Java; Shell,container; docker; android
+kirillDanshin,Kirill Danshin,kirill@danshin.pro,Poland,122,464,73,164,24,Go; JavaScript; Shell; HTML; Makefile,example; tree-structure; postgresql; debug; dlog; docker; compile-time-enabling; log; fast; postgres
+noahabel,,,,5,373,0,1,0,Vue,
+rosedblabs,RoseDB Labs,roseduan7@163.com,China,13,361,0,7546,1007,Go; Rust; HTML; C,disk; lsm-tree; bitcask; storage; embedded; data-structures; throughput; database; key-value; hashtable
+danmaster01,horlar,,Nigeria ,16,649,14585,43,2,Go,github-config; config
+dannypsnl,Lîm Tsú-thuàn,inbox@dannypsnl.me,Taiwan,103,354,152,428,31,Racket; JavaScript; Lean; Rust; Haskell,scheme-compiler; sauron; compiler; scheme; zsh-configuration; ide; go; backend; readme-card; arm64
+maruel,M-A,g@maruel.ca,"Ottawa, Canada",145,426,9,4036,142,Go; Python; Shell; C++; HTML,llamacpp; veo3; cerebras; mistral; hugo; minify; go; ollama; openai; anthropic
+milosgajdos,Milos Gajdos,milosthegajdos@gmail.com,Cyberspace,127,423,700,1234,183,Go; Python; Rust; HTML; C,opencv; deep-dream-experiments; aws-bedrock; particle-filter; networking; api; vault; go; introspection; spotify-api
+sathishvj,,,,65,457,0,4451,1521,JavaScript; Go; Shell; HTML; Python,certification; gcp; google-cloud-platform; cloud
+unmitra,unmitra,,京都市,5,2149,2491,73,25,,
+shaojieb,Shaojie Bai,shaojieb@gmail.com,"San Francisco, CA",12,437,7,5,3,Python; Go; HTML; C++; Java,
+AvaAvarai,Alice Williams,alice.williams.tech@gmail.com,"Central Washington University, USA",81,384,792,143,17,Python; C; Java; HTML; JavaScript,business-automation; knowledge-discovery-from-data; love; pdf-questions; game; windows-gui; graph-visualization; feature-engineering; java-swing-gui; data-augmentation
+awake1t,大象,,,20,682,277,6457,1256,Python; Go; JavaScript,pentesting; awsome-list; hacking; pentest; awesome; pentest-tool; hack-tool; cybersecurity
+askmeegs,Megan O'Keefe,,,165,372,4,1609,301,Python; Shell; Go; Java; Astro,openpolicyagent; kustomize; gke; google-cloud; config-management; envoy; kubernetes; microservices; istio; service-mesh
+enocom,Eno Compton,,Colorado,14,461,0,8099,576,Go; Ruby; Shell; Emacs Lisp; JavaScript,blog-posts; testing-tools; spy-generator; testing; reading-list; go; golang
+ladar,Ladar Levison,,"Dallas, TX",10,367,0,122,34,C++; Ruby; C,tcg; sed; opal; self-encrypting-drives; nvme; sedutil; sedutil-cli; pba; pre-boot-authentication
+mojocn,EricZhou周庆,,1.2 KM away,38,361,103,3880,713,Go; TypeScript; JavaScript; HTML; Rust,mysql-database; go; anti-spam; boilerplate-template; backend; pewdiepie; jumper-server; sse; sse-client; image-captcha
+ashleymcnamara,Ashley Willis,ashleymcnamara@github.com,Seattle,185,1935,37,4123,332,Go; JavaScript; Python; HTML; CSS,github-config; config
+mattermost,Mattermost,info@mattermost.com,,256,2401,0,44144,14414,Go; TypeScript; JavaScript; Shell; Python,mattermost-plugin; template; zoom; mattermost; handbook; logging-client; mattermost-mobile; jira-integration; push-notifications; helm
+davecgh,Dave Collins,,,63,602,1,6539,457,Go; C; Shell; Python; JavaScript,
+jzelinskie,Jimmy Zelinskie,jimmy@zelinskie.com,"San Francisco, CA",76,390,22,915,125,Go; Shell; Python; Ruby; Rust,dwm; arch-linux; script; command-line; pascal; reddit; mumble; kademlia-dht; go; example
+zach-klippenstein,Zach Klippenstein,,"San Francisco, CA",88,531,29,1509,181,Kotlin; Java; Go; CSS; Shell,compose; kotlin; animation; android; bug; ui; jetpack-compose; kotlin-language; kotli; kotlin-multiplatform
+jianfengye,yejianfeng,jianfengye110@gmail.com,Beijing,35,385,251,1860,861,Go; PHP; C#; C; Shell,
+griesemer,Robert Griesemer,,SF Bay Area,6,3905,1,199,22,Go; JavaScript,
+OdyseeTeam,Odysee,,,45,353,0,3132,488,Go; JavaScript; Java; Swift; Python,blockchain; android; sql; ios; swift; java; odysee; lbry; video; api
+prasmussen,Petter,petter@hask.no,Oslo,57,614,51,12370,1490,Go; Rust; Haskell; JavaScript; Objective-C,
+jeffotoni,Jefferson Otoni Lima,jeff.otoni@gmail.com,Brazil - Belo Horizonte/MG,142,422,22,747,122,Go; HTML; CSS; V; Zig,php-fpm; aws-apigateway; redis; s3; script; api; go; bash; go-router; rest-client
+ekzhu,Eric Zhu,,"Seattle, WA",112,676,42,3925,454,Python; Go; Jupyter Notebook; Java; JavaScript,gpt-4; azure-openai; frequency-counter; data-summary; locality-sensitive-hashing; lsh-forest; hnsw; containment; inmemory; facebook
+thefoodotbar,,,"California, USA",19,1517,0,46,4,TypeScript; JavaScript,
+tomwilkie,Tom Wilkie,,London,123,625,9,280,48,Go; Python; Shell; Ruby; TypeScript,prometheus; kubernetes
+connectrpc,Connect,,,24,578,0,7680,534,Go; TypeScript; Python; Kotlin; Swift,connect-es; playwright; schema; svelte-query; swift; svelte; vite; validation; authentication; api
+axelarnetwork,Axelar Network,,,102,393,0,1113,1152,JavaScript; Rust; TypeScript; Solidity; Go,axelarjs; cross-chain; sui; blockchain; axelar; maestro; satellite; axelarui; move; interoperability
+lonng,Henry LONNG,henry@lonng.org,China,28,785,145,5141,953,Go; Rust; C,mahjong-game; http; microservice; game; distributed-systems; dependency-injection; networking; micro; lua-compiler; tencent-cloud-db
+schollz,Zack,zack.scholl@gmail.com,"Seattle, WA",1139,3536,205,48836,2262,Go; C++; Lua; C; JavaScript,faas-platform; wifi; sensor; supercollider; notes; tcp; streaming-audio; command-line; notepad; music-tracker
+unlock-music,Unlock Music,,,4,477,0,13982,380,Go,music; qmc; mflac; unlock-music; unlock; mgg; ncm; xiami; kugou; kwm
+gleicon,Gleicon Moraes,gleicon@gmail.com,Sao Paulo/Brazil,184,465,69,1037,112,Go; Rust; C; Python; TypeScript,
+openbilibili,,,,2,2314,0,9277,5992,Go,
+yasutakatou,Yasutaka Kato,katoh.yasuta@gmail.com,Japan,56,383,625,246,10,Go; JavaScript; HTML; Python; TypeScript,opencv; automation; lc4ri; game; google-maps; characterization; joke; linter; bootstrap; go
+wyh267,wuyinghao,,"Beijing,China",27,357,6,1218,497,Go; C++; Python; C; Java,
+petar,Petar Maymounkov,petarm@gmail.com,"Los Altos, CA",50,652,18,1412,217,Go; C; Julia; TypeScript; C++,
+hunterhug,,gdccmcm14@live.com,,15,370,0,1187,239,Go; HTML; CSS; Python,treemap; crawler; cache; golang-redis-lock; spider; logger; algorithm; golog; zap-log; python
+d4l3k,Tristan Rice,rice@fn.lc,Seattle/Vancouver,269,627,26,3654,129,Go; Python; C; JavaScript; C++,bayesianoptimization; firebase; client; redshift; model-parallelism; graph-partitioning; content-security-policy; binary16; bayesopt; hugo
+ConnectAI-E,ConnectAI-E,hi@connectai-e.com,China,112,723,0,8127,1449,TypeScript; Go; Python; JavaScript; Vue,kimi; transcripts; feishu-bot; claude; ernie; dingtalk-bot; chatgpt; midjourney-api-bot; typechat; base-script
+bdvajstudio,,,,2,689,0,3623,143,Go,javbus; javporn; javdb; javlibrary; javhd
+lavanet,,,,43,729,0,681,402,TypeScript; Go; JavaScript; Python; Dockerfile,web3; cloud; blockchain; infrastructure; k8s; helm
+wormholes-org,wormholes,dev@wormholes.com,,6,362,0,367,142,Go,
+kroma-network,Kroma,,,74,423,0,8110,439,Rust; Go; TypeScript; Solidity; C++,bazel; cuda; cpp17; tachyon; blockchain; circom; zk; c-plus-plus; bazel-rules; kroma
+olivere,Oliver Eilhard,oliver@eilhard.net,"Munich, Germany",195,488,78,8387,1287,Go; Ruby; JavaScript; TypeScript; C#,http; golang-examples; vitejs; scheduled-jobs; nats-streaming-server; jobqueue; pubsub; vite; env; dropbox
+moul,Manfred Touron,,France,629,1649,412,9212,769,Go; Makefile; TypeScript; Shell; Dockerfile,uber-zap; http; template; dijkstra; berty; wip-chat; decode; github-actions; portuguese; helpers
+containerd,containerd,,,38,1210,0,39603,6661,Go; Rust; C++; JavaScript; Shell,container-image; storage; rootless-containers; blockdevice; cni; fifo; gpg; go; oci; iscsi-target
+cyphar,Aleksa Sarai,cyphar@cyphar.com,Oceania (circa 1984),144,957,2,1846,109,Go; Shell; Rust; C; JavaScript,user-friendly; backup; matrix-org; presentation; secret-sharing; web; path-resolution; paper; python; proposal
+vdemeester,Vincent Demeester,vdemeest@redhat.com,"Paris, France",266,716,168,58,12,Go; Shell; Python; Nix; Dockerfile,claude; github-automation; org-mode; packages; ollama; tektoncd; openshift; emacs; github-labels; llm
+dmcgowan,Derek McGowan,derek@mcg.dev,,116,414,12,192,60,Go; Shell; JavaScript; C; Python,
+yinghuocho,yinghuocho,,,19,454,0,5238,1045,Go; Python; Java,
+qaisjp,Qais Patankar,qaisjp@gmail.com,nyc,194,362,436,150,45,Go; Ruby; JavaScript; Lua; TeX,multi-theft-auto
+influx6,Ewetumo Alexander,alex.ewetumo@gmail.com,"Lagos, Nigeria",710,373,1701,42,2,Go; JavaScript; Python; HTML; Rust,golang-ast; commons; npkg; common-packages; ast; ast-structures; gokit-astkit; restark; astkit; common-package
+mastermndio,Aaron from MASTERMND,,,84,423,3,129,75,JavaScript; Python; Go; HCL; Shell,
+ChimeraCoder,Aditya Mukerjee,,"New York, NY",134,529,45,4838,543,Go; JavaScript; Shell; CSS; Python,veneur; docker; golang-library; stripe; go-generate; twitter; koro; i18n; gojson; go-library
+linexjlin,,,Shanghai,123,570,17,32128,4460,Go; Python; HTML; JavaScript; TypeScript,chatgpt; ai; markdown; editor; inputgpt; milkdown
+mintlayer,Mintlayer,hello@mintlayer.org,San Marino,41,361,0,97,54,Rust; JavaScript; TypeScript; C; Dockerfile,zkrollup; blockchain; bitcoin; evm; zero-knowledge; defi
+mna,Martin Angers,martin.n.angers@gmail.com,Québec,187,621,38,1368,123,Go; Lua; C; Swift; JavaScript,redis; peg; networking; upstash; framework; swift-package-manager; redis-cluster-client; redis-cluster; postgresql; web
+tgraf,Thomas Graf,tgraf@tgraf.ch,"Zurich, Switzerland",38,571,0,1525,203,Go; C; Shell; HTML; JavaScript,network; network-monitoring; network-analysis; networking; monitoring
+ibuildthecloud,Darren Shepherd,,,339,1581,0,696,100,Go; TypeScript; JavaScript; Python; Shell,kubernetes
+tiancaiamao,,,,75,1001,13,2395,591,Go; C; Scheme; HTML; C++,database; programming-language; cora; lisp; benchmark; golang; lambda
+kevwan,Kevin Wan,wanjunfeng@gmail.com,"Hong Kong, China",115,2054,23,6042,592,Go; Python; Rust; Jupyter Notebook; TypeScript,gomodule; microservice; tcp; code-generation; web-development; relay; concurrent; language; microservices; proxy
+hemilabs,Hemi Labs,hemi-info@hemi.xyz,,89,517,0,346,212,TypeScript; JavaScript; Go; Solidity; HTML,
+openfaas,OpenFaaS,contact@openfaas.com,"London, UK",51,897,0,36287,4561,Go; Python; JavaScript; Shell; Dockerfile,ci-cd; http; deploy; dotnet-core; platform; ruby; branding; api; stdout; functions
+eapache,Evan Huus,eapache@gmail.com,"Ottawa, Canada",27,523,10,4178,340,Go; Python; VimL; Ruby; JavaScript,resiliency; cscope; channels; ruby; resiliency-patterns; javascript; go; ctags; golang; buffer
+artela-network,Artela Network,,,49,361,0,691,400,Go; TypeScript; JavaScript; Vue; Solidity,
+letsencrypt,Let's Encrypt (ISRG),,,38,1762,0,10096,1927,Go; Python; HTML; Shell; HCL,template; isrg; acme; acme-server; dataset; ci; hugo; lets-encrypt; certificate-authority; go
+muesli,Christian Muehlhaeuser,muesli@gmail.com,,338,3289,448,34976,2112,Go; C++; OpenSCAD; C; Ruby,indentation; customizable; user-friendly; automation; elgato-stream-deck; hue; ifttt; service; openbsd; go
+codahale,Coda Hale,,"Fort Collins, CO",132,2203,19,3142,370,Go; Rust; Java; Clojure; Shell,elligator-squared; usl; xsalsa20poly1305; xoodoo; hkdf; xoodyak; qdsa; elliptic-curve-cryptography; proxy; areion
+prometheus-community,Prometheus Monitoring Community,,,38,1258,0,23725,10183,Go; Python; TypeScript; Makefile; Mustache,cadvisor; charts; helm-charts; monaco; cloudwatch; helm; go; google; yaml-support; langserver
+plutov,Alex Pliutau,a.pliutau@gmail.com,"Berlin, Germany",86,906,489,4989,924,Go; Shell; TypeScript; Dockerfile; JavaScript,lambda-functions; k8s; aws-lambda; helm-charts; helm; go; telnet; snake; python; rasa-nlu
+kujtimiihoxha,Kujtim Hoxha,kujtimii.h@gmail.com,"Prishtina, Kosovo",73,490,25,1005,210,Go; JavaScript; HTML; Java; TypeScript,kit-generator; plist; tools; tool; go-kit; script; generator; plis-tool; cli-toolkit; cli
+coder,Coder,contact@coder.com,,203,2252,0,106036,9283,Go; TypeScript; HCL; Shell; Python,claude; toolbox; neovim; vercel; dev-tools; vector-database; minimal; github-stars; tokenizer; browser
+luchina-gabriel,Gabriel Luchina,,Curitiba - Paraná - Brazil ,180,1712,0,6903,582,Shell,macos; apple; hackintosh; proxmox; opencore; virtualization
+KiiChain,KiiChain,,,33,1164,0,228,278,Go; TypeScript; Rust; Shell; Python,blockchain; cosmos-sdk; gitbook; docs; evm; kii
+fuxiaohei,FuXiaoHei,fuxiaohei@vip.qq.com,"Xiamen,Fujian,China",40,603,39,500,131,Go; Rust; JavaScript; HTML; C++,serverless-functions; wasm; wasmtime; serverless; faas; faas-framework; faas-cli; webassembly
+squat,Lucas Servén Marín,,Berlin,157,417,24,2624,208,Go; HTML; HCL; Shell; Jsonnet,cni; streamlit; kilo; vpn; flatcar-linux; networking; pam; terraform-provider; sbc; container-linux
+samuelkarp,Samuel Karp,,"Seattle, WA",76,633,282,721,44,Go; Shell; HTML; Python; Rust,firecracker-microvms; hardware; oci; transit-data; serialport; freebsd-jail; docker; libpurple-plugin; containerd; containers
+aybabtme,Antoine Grondin,,from places,294,482,135,1249,99,Go; Shell; Dockerfile; Rust; Ruby,golang-library; golang-package; scheduled-events; bufferapp; modelling; actors; api; event-scheduler; go; api-client
+sttts,Dr. Stefan Schimanski,,Germany,367,576,3,68,10,Go; Shell; Pascal; Python; TypeScript,javascript; godot; extension; quickjs
+resouer,Lei Zhang (Harry),,Bay Area,191,1875,49,759,524,Go; Shell; Smarty; Python; HTML,
+bketelsen,Brian Ketelsen,bketelsen@gmail.com,"Tampa, FL",471,1380,8,957,150,Go; Shell; JavaScript; CSS; TypeScript,incus; remote-development; automation; homelab; nix; shell; devbox; terraform; coder; docker
+wailsapp,Wails,,Australia,17,370,0,33758,1772,Go; JavaScript; CSS; Shell,linux; macos; awesome-wails; react; svelte; javascript; vuejs; wails; desktop-application; go
+lunixbochs,Ryan Hileman,,,229,497,3,4524,428,Python; Go; C; Rust; Shell,talonvoice; vim; neovim; python; sublime-text
+ahr-i,Ahri,,,37,650,939,128,21,Go; Java; Python; Shell; C#,csharp; collective-intelligence; redis; distributed-systems; deep-learning; setup-script; openai; computer-vision; 2d-game; alarm
+yanue,,,,16,842,8,20175,3102,Go; Shell; PHP; HTML; Java,v2ray-mac; v2ray-core; starkex-crypto; fastdfs; graphicsmagick; dbmanager; backend; v2ray-gui; mysql; vmess
+jangaraj,Jan Garaj,jan.garaj@gmail.com,United Kingdom/Slovakia,85,395,134,104,37,Go; JavaScript; Shell; TypeScript; HTML,spa; keycloak; cors
+kelvins,Kelvin S. do Prado,kelvinpfw@gmail.com,"Santa Catarina, Brazil",44,899,404,9345,2078,Python; Go; C++; Shell; JavaScript,opencv; smtp-client; neovim; biological-data-analysis; scala; api; go; csv; migration-tool; algorithms
+MediaMarktSaturn,MediaMarktSaturn,,Ingolstadt,3,438,0,37,3,Java; Smarty,owasp; sbom; quarkus; charts; cyclonedx; kubernetes; cdxgen; helm-charts; helm; owasp-dependencycheck
+01-edu,01,,,34,372,0,465,717,JavaScript; Go; HTML; Shell; TypeScript,
+tchajed,Tej Chajed,tchajed@gmail.com,"Madison, WI",277,347,16,523,102,Coq; Go; Rocq Prover; Rust; Python,timer; nbd; go; ivy; verification; web; voting-system; concurrency; lean; debugging
+ethereum-optimism,Optimism,,,138,3038,0,12648,9320,Go; TypeScript; Solidity; Python; Shell,app; optimism; onchain; infra; optimism-l2; ethereum; optimistic-rollups; devops; security; l2-scaling
+zitadel,ZITADEL,hi@zitadel.com,,71,425,0,15869,1572,TypeScript; Go; Python; HTML; JavaScript,session; sdk-node; oauth; saml-sp; api; go; identity; code-flow-pkce; functions; discovery
+Capgemini-Innersource,Capgemini,,,1,599,0,0,2,,
+KPMG-UK,KPMG UK,,United Kingdom,1,423,0,1,0,,
+fjl,Felix Lange,fjl@ethereum.org,,116,1191,36,584,175,Go; Emacs Lisp; JavaScript; Python; C++,debugging-tools; machinedrum; mailmate; gioui; emacs; midi; database-benchmarking; ethereum; unmarshaller; leveldb
+dominant-strategies,Dominant Strategies,,,51,913,0,2603,697,TypeScript; Go; JavaScript; Solidity; C++,web3; nft; wallet; quais; quai; dapp
+sjwhitworth,Stephen Whitworth,stephenjameswhitworth@gmail.com,London,22,397,21,9769,1256,Go; Python; VimL,
+wonderflow,Jianbo Sun,wonderflow.sun@gmail.com,,196,554,87,25,47,Go; Smarty; CSS; CUE; JavaScript,
+alainjobart,Alain Jobart,alainjobart@gmail.com,San Jose,1,374,0,2,1,Go,
+aptos-foundation,Aptos Foundation,,,5,728,0,551,370,Move; TypeScript,
+jolestar,jolestar,jolestar@gmail.com,China,93,1024,229,2043,433,Go; Shell; Rust; JavaScript; Java,probe; gomoku; objectpool; squid; stunnel; course; server; commons-pool; proxy; assemblyscript
+imroc,roc,roc@imroc.cc,China,193,696,173,5706,705,Go; Shell; TypeScript; Dockerfile; HTML,go; http; golang; http-client
+ije,Je Xia,i@jex.me,,19,634,33,986,25,TypeScript; Go; JavaScript; Lua; Rust,runner; script; utility; publish; go; md4c; postdb; web; zig; deno
+narula,Neha Narula,,"Cambridge, MA",39,492,82,81,13,Go; Python; JavaScript; HTML; C++,
+SaturnsVoid,SaturnsVoid,,USA,42,360,3,1587,539,Go; JavaScript; Visual Basic; CSS; Python,win32crypt; http; game; tcp; cookies; rasberrypi; c2; api; go; gaming-software
+dominikh,Dominik Honnef,dominik@honnef.co,Germany,143,1853,7,11853,857,Go; Emacs Lisp; Ruby; Nix; Shell,rdf; static-analysis; bittorrent; sparql; desktop-search; sponsor; knowledge-graph; staticcheck; vulkan; semantic-web
+coocood,Evan Zhou,coocood@gmail.com,"Beijing, China",48,1018,5,6492,576,Go; Java; C; Rust; HTML,
+s-rah,Sarah Jamie Lewis,sarah@openprivacy.ca,"PNW, Canada",16,657,5,3200,641,Rust; Go; C++; Assembly; C,risc-v; osdev
+paketo-buildpacks,Paketo Buildpacks,main@lists.paketo.io,,195,411,0,1113,796,Go; Shell; Ruby,git; jvm-applications; cnb; build-system; process-restarter; php; python; sbt; ruby; watchexec
+seiflotfy,Seif Lotfy,me@seif.codes,"Berlin, Germany",79,379,83,0,0,,
+Xe,Xe Iaso,me@xeiaso.net,Canada,234,3993,631,3175,256,Go; Rust; JavaScript; Nix; Shell,printerfacts; darksky; olin; elm; hacker; campaigns; go; meditation-instructions; zen; chain
+hawkingrei,Weizhen Wang,hawking.rei@gmail.com,"Shanghai,China",259,752,1248,0,0,,
+thockin,Tim Hockin,thockin@google.com,United States,65,2029,0,0,0,,
+yandex-cloud,Yandex Cloud,,,72,606,0,0,0,,
+caddyserver,Caddy,caddy@dyanim.com,,31,1213,0,0,0,,
+wolfi-dev,Wolfi,,,16,1182,0,0,0,,
+awalterschulze,Walter Schulze,awalterschulze@gmail.com,"Stevenage, UK",36,461,232,0,0,,
+calmh,Jakob Borg,jakob@kastelo.net,Sweden,163,756,2,0,0,,
+smallfish,smallfish,,"Hangzhou, China",24,396,15,0,0,,

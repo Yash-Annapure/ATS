@@ -1,0 +1,1 @@
+from .dashboard import render_recruiter_dashboard

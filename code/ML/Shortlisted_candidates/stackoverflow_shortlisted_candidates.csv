@@ -1,0 +1,11 @@
+User_ID,Display_Name,Reputation,Gold_Badges,Silver_Badges,Bronze_Badges,Link,Cluster_Label,Recruiter_Label,Selection_Probability,Selection_Probability_dt,Selection_Probability_xgb
+139459,Sarfraz,383564,81,561,614,https://stackoverflow.com/users/139459/sarfraz,1,Good,1.0,1.0,0.9999995
+878126,android developer,116678,162,797,1344,https://stackoverflow.com/users/878126/android-developer,1,Good,1.0,1.0,0.9999988
+93468,PositiveGuy,47943,113,318,480,https://stackoverflow.com/users/93468/positiveguy,1,Good,1.0,0.9704433497536946,0.99994063
+631619,Michael Durrant,97235,102,353,537,https://stackoverflow.com/users/631619/michael-durrant,1,Good,1.0,1.0,0.99999416
+247542,Cerin,65669,107,350,563,https://stackoverflow.com/users/247542/cerin,1,Good,1.0,1.0,0.9999924
+155196,Harsha M V,55119,130,366,537,https://stackoverflow.com/users/155196/harsha-m-v,1,Good,1.0,1.0,0.99998283
+143030,JasonDavis,49221,108,331,562,https://stackoverflow.com/users/143030/jasondavis,1,Good,1.0,1.0,0.9999685
+572,Thomas Owens,116533,100,322,439,https://stackoverflow.com/users/572/thomas-owens,1,Good,1.0,0.9704433497536946,0.99996066
+168738,Leon Gaban,39434,123,352,553,https://stackoverflow.com/users/168738/leon-gaban,1,Good,1.0,1.0,0.9999733
+343204,Snowcrash,87349,101,287,418,https://stackoverflow.com/users/343204/snowcrash,1,Good,1.0,1.0,0.9960537
